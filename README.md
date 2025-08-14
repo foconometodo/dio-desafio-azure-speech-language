@@ -36,3 +36,5 @@ Este projeto foi desenvolvido como parte de um desafio da DIO, com o objetivo de
 - [Speech Studio - Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/speech-service)
 - [Language Studio - Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/language-service)
 - [GitHub Docs](https://docs.github.com)
+
+
